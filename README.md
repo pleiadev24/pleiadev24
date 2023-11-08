@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ... 😄 Pronouns: ...
 
 -->
-I'm a dedicated data enthusiast with a passion for unraveling the stories hidden within raw data.
+Thanks for visiting my GitHub page!
 
 🔭 I’m currently working on 
 
