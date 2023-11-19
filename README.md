@@ -21,7 +21,9 @@ Reading reserach papers on my favourite questions on life and figuring out a way
 
 🔍 What I Do
 
-Analyst in Financial Services/Banking : I love diving into datasets, uncovering trends, and drawing insights that drive informed decisions. 
+🏦 Analyst in Financial Services/Banking
+📊 I love diving into datasets, uncovering trends, and drawing insights that drive informed decisions.
+☁️ I love working on projects using AWS!
 
 🌱 Always Learning
 
