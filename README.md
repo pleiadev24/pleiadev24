@@ -18,10 +18,11 @@ Thanks for visiting my GitHub page!
 🔭 I’m currently working on 
 
 Reading reserach papers on my favourite questions on life and figuring out a way to re-create using Python.
+Trying out SQL queries on Leetcode : https://leetcode.com/rohinimohan14/
 
 🔍 What I Do
 
-🏦 Analyst in Financial Services/Banking
+🏦 SRE/Analyst in Financial Services
 📊 I love diving into datasets, uncovering trends, and drawing insights that drive informed decisions.
 ☁️ I love working on projects using AWS!
 
