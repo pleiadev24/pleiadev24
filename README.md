@@ -34,5 +34,3 @@ Let's connect and collaborate on exciting data-driven ventures! Feel free to exp
 
 Happy coding! 🚀✨
 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=pleiadev24&layout=compact&langs_count=8&theme=dark&hide=html,css)](https://github.com/pleiadev24/github-readme-stats)
-
