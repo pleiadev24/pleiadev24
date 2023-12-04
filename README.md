@@ -17,7 +17,7 @@ Thanks for visiting my GitHub page!
 
 🔭 I’m currently working on 
 
-Reading reserach papers on my favourite questions on life and figuring out a way to re-create using Python.
+My Scripting skills using Shell
 Trying out SQL queries on Leetcode : https://leetcode.com/rohinimohan14/
 
 🔍 What I Do
