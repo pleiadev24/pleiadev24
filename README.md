@@ -22,7 +22,7 @@ Thanks for visiting my GitHub page!
 
 🔍 What I Do
 
-🏦 SRE/Analyst in Financial Services
+🏦 Analyst in Financial Services
 📊 I love diving into datasets, uncovering trends, and drawing insights that drive informed decisions.
 ☁️ I love working on projects using AWS!
 
