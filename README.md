@@ -15,11 +15,6 @@ Here are some ideas to get you started:
 -->
 Thanks for visiting my GitHub page!
 
-🔭 I’m currently working on 
-
-#### My Scripting skills using Shell
-#### Trying out SQL queries on Leetcode
-
 🔍 What I Do
 
 🏦 Analyst in Financial Services
