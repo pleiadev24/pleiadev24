@@ -1,6 +1,6 @@
 # Welcome to Roh's GitHub Profile! 👋
 
-## About Me 🚀
+## About Me 🐙
 
 Hi there! I'm Rohini,I enjoy solving complex problems and exploring new technologies.
 
@@ -14,7 +14,7 @@ Hi there! I'm Rohini,I enjoy solving complex problems and exploring new technolo
 
 ## Projects 🚧
 
-Here are some of my notable projects:
+Here are some of my notable projects:🔍
 
 - [MedStore - AWS](https://github.com/pleiadev24/MedStore)
 - [Spotify Stats](https://github.com/pleiadev24/spotify-stats)
