@@ -1,31 +1,23 @@
-### Hi there 👋
+# Welcome to Roh's GitHub Profile! 👋
 
-<!--
-**pleiadev24/pleiadev24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me 🚀
 
-Here are some ideas to get you started:
+Hi there! I'm Rohini,I enjoy solving complex problems and exploring new technologies.
 
-- ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ... 😄 Pronouns: ...
+## Top Skills 💻
 
--->
-Thanks for visiting my GitHub page!
+- **SQL:** Proficient in SQL, with experience in database design, querying, and optimization.
+- **Bash:** Skilled in Bash scripting for automation and system administration tasks.
+- **Python:** Experienced in Python programming, with a focus on data analysis and automation.
+- **Data Visualization:** Expertise in creating meaningful visualizations to derive insights from data.
+- **AWS:** Knowledgeable in various AWS services for cloud computing and infrastructure management.
 
-🔍 What I Do
+## Projects 🚧
 
-🏦 SRE in Financial Services
-📊 I love diving into datasets, uncovering trends, and drawing insights that drive informed decisions.
-☁️ I love working on projects using AWS!
+Here are some of my notable projects:
 
-🌱 Always Learning
+- [MedStore - AWS](https://github.com/pleiadev24/MedStore)
+- [Spotify Stats](https://github.com/pleiadev24/spotify-stats)
 
-I believe in the power of continuous learning. 
-
-Let's connect and collaborate on exciting data-driven ventures! Feel free to explore my repositories and reach out for any collaborations or discussions. 
-
-Happy coding! 🚀✨
-
+Feel free to explore my repositories to find more interesting projects!
+Let's collaborate and make amazing things together! 
