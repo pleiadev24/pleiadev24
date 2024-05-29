@@ -4,13 +4,13 @@
 
 Hi there! I'm Rohini,I enjoy solving complex problems and exploring new technologies.
 
-## Top Skills 💻
+## My Skills 💻
 
 - **SQL:** Proficient in SQL, with experience in database design, querying, and optimization.
-- **Bash:** Skilled in Bash scripting for automation and system administration tasks.
 - **Python:** Experienced in Python programming, with a focus on data analysis and automation.
 - **Data Visualization:** Expertise in creating meaningful visualizations to derive insights from data.
 - **AWS:** Knowledgeable in various AWS services for cloud computing and infrastructure management.
+- **JavaScript** Newbie, but getting there.
 
 ## Projects 🚧
 
